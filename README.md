@@ -17,7 +17,7 @@ The form collects basic user information, preferences, and feedback about the pl
 
 ## 🚀 Live Demo
 
-👉 [View Live Project](fccrwdsurveyform.netlify.app)   
+👉 [View Live Project] [fccrwdsurveyform.netlify.app](https://fccrwdsurveyform.netlify.app)   
 👉 [GitHub Repo](https://github.com/chauhandigvijay1/fcc-rwd-surveyform.git)
 
 ## 📂 Folder Structure
@@ -45,5 +45,12 @@ fcc-rwd-surveyform/
 ## 📜 License
 
 This project is part of the [freeCodeCamp curriculum](https://www.freecodecamp.org/) and follows the guidelines of educational use.
+
+🔗 Connect with Me
+🧑‍💻 LinkedIn (www.linkedin.com/in/digvijaykumarsingh)
+
+🐦 X (https://x.com/DigvijaySi29958)
+
+📬 chauhandigvijay669@gmail.com
 
 
