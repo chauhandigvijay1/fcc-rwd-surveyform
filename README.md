@@ -46,7 +46,7 @@ fcc-rwd-surveyform/
 
 This project is part of the [freeCodeCamp curriculum](https://www.freecodecamp.org/) and follows the guidelines of educational use.
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 🧑‍💻 LinkedIn (www.linkedin.com/in/digvijaykumarsingh)
 
 🐦 X (https://x.com/DigvijaySi29958)
